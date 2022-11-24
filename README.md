@@ -46,5 +46,5 @@ The level of degree has no effect on the funding rounds. (a). The founder with t
 
 The region with the most startups is SF Bay with approximately $124.4million.
 
-The startup with the most funding rounds is SOFTWARE. (a). Amongst other founders, the founders with the most funding rounds in SOFTWARE are Mobivery and Tyro Payments.# Exploratory-Data-Analysis-of-StartUps-Ecosystem
+The startup with the most funding rounds is SOFTWARE. (a). Amongst other founders, the founders with the most funding rounds in SOFTWARE are Mobivery and Tyro Payments.
 
