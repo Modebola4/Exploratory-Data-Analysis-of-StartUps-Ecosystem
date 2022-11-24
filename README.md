@@ -32,6 +32,13 @@ After analyzing and cleaning the datasets. Some of the columns from the 11 table
 
 After Exploring the data, I visualized on Power BI.
 
+# Dashboard
+EDA Startup Ecosystem Dashboard
+![EDA Startup Ecosystem](https://user-images.githubusercontent.com/112702571/203852957-8ccfc4dd-0fdb-4bf6-9ca3-d902c06564e2.png)
+
+Investment Dashboard
+![Startup Investment](https://user-images.githubusercontent.com/112702571/203853050-4bdc153f-dbea-4ef8-aad6-19da9d38cc1d.png)
+
 # CONCLUSION
 
 After analyzing the data, it was concluded that USA is the best and safest country for investment. The top sector to invest in is Software, because Startups have highest amount in USA.
